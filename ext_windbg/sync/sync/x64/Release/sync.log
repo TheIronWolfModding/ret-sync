@@ -1,0 +1,9 @@
+﻿  outputcallback.cpp
+  sync.cpp
+  tunnel.cpp
+     Creating library E:\repos\ret-sync\ext_windbg\sync\x64\Release\sync.lib and object E:\repos\ret-sync\ext_windbg\sync\x64\Release\sync.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sync.vcxproj -> E:\repos\ret-sync\ext_windbg\sync\x64\Release\sync.dll
